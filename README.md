@@ -1,7 +1,6 @@
----
 <img src="https://komarev.com/ghpvc/?username=sudo-amancodes&style=flat&color=blueviolet&label=Profile+Views" alt="view-counter.png"/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 
 # 💫 About Me:
 🔭 I’m currently working on a Large Language Model project with Next.js, TypeScript, Flask, and Supabase.<br>👯 I’m looking to collaborate as a software engineer on cool, unique domains.<br>🤝 I’m looking to learn from industry professionals! <br>🌱 I’m learning many subjects, from advanced networking to data mining.<br>💬 Ask me about the ACM club at UNCC :)
@@ -21,4 +20,4 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sudo-amancodes&icon=2&color=12)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
