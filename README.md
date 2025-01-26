@@ -1,3 +1,8 @@
+---
+<img src="https://komarev.com/ghpvc/?username=sudo-amancodes&style=flat&color=blueviolet&label=Profile+Views" alt="view-counter.png"/>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 # 💫 About Me:
 🔭 I’m currently working on a Large Language Model project with Next.js, TypeScript, Flask, and Supabase.<br>👯 I’m looking to collaborate as a software engineer on cool, unique domains.<br>🤝 I’m looking to learn from industry professionals! <br>🌱 I’m learning many subjects, from advanced networking to data mining.<br>💬 Ask me about the ACM club at UNCC :)
 
@@ -14,8 +19,6 @@
 # 🤖 ML/AI Frameworks/Libraries:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
-### ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudo-amancodes&icon=2&color=12)](https://visitcount.itsvg.in)
